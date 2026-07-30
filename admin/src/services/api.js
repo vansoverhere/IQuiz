@@ -1,6 +1,6 @@
 import { useAuth } from "@clerk/react";
 
-const BASE_URL='http://localhost:8080/api';
+const BASE_URL='https://iquiz-backend-hdeh.onrender.com/api';
 
 export const apiRequest=async(
     endpoint,
