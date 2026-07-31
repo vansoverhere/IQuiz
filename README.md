@@ -2,6 +2,13 @@
 
 IQuiz is a full-stack quiz platform that allows users to test their knowledge through technology-based quizzes while providing administrators with tools to create and manage quizzes.
 
+## Demo Access
+
+- **User Application:** https://iquiz-web.vercel.app
+- **Admin Panel:** https://iquiz-admin.vercel.app
+
+**Admin Access:** Restricted to the project owner for security purposes. The Admin Dashboard uses role-based authorization, and only authorized administrator accounts can manage quizzes.
+
 ## Features
 
 - Secure authentication using Clerk
