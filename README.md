@@ -9,6 +9,27 @@ IQuiz is a full-stack quiz platform that allows users to test their knowledge th
 
 **Admin Access:** Restricted to the project owner for security purposes. The Admin Dashboard uses role-based authorization, and only authorized administrator accounts can manage quizzes.
 
+## Screenshots
+
+### User Application
+
+#### Home Page
+![User Home](screenshots/userHome.png)
+
+#### Quiz Page
+![User Quiz](screenshots/userQuiz.png)
+
+#### Result Page
+![Quiz Result](screenshots/userResult.png)
+
+### Admin Panel
+
+#### Dashboard
+![Admin Dashboard](screenshots/adminDashboard.png)
+
+#### List Quiz
+![Admin List Quiz](screenshots/adminListQuiz.png)
+
 ## Features
 
 - Secure authentication using Clerk
